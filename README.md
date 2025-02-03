@@ -4,6 +4,7 @@ Aplikasi ini digunakan untuk menghubungkan folder 1 dengan folder baru
 [This application is used to link one folder with a new folder]
 <br>
 <br>Link Download bat file : [link](start.bat)
+<br>Link Download zip file : [link](https://github.com/SinduMP/folderlinked/archive/refs/tags/LinkedFolderCreator.zip)
 <br>
 <br>
 <br>Diagram English

@@ -6,6 +6,11 @@ Aplikasi ini digunakan untuk menghubungkan folder 1 dengan folder baru
 <br>Link Download bat file : [link](start.bat)
 <br>Link Download zip file : [link](https://github.com/SinduMP/folderlinked/archive/refs/tags/LinkedFolderCreator.zip)
 <br>
+<br>Contoh implementasi aplikasi ini yaitu pada penggunaan folder game steam ke game epic dalam catatan game sama persis
+<br>Sudah saya coba ke game steam ARK Survival Evolved, folder ark pada steam saya link ke folder baru yg saya pakai untuk epic
+<br>[An example implementation of this application is using a Steam game folder linked to an Epic game folder with the exact same game data.]
+<br>[I have tried it with the Steam game ARK Survival Evolved, linking the ARK folder on Steam to a new folder I use for Epic.]
+<br>Tutorial link youtube : Coming soon..... (lagi saya buatkan) 
 <br>
 <br>Diagram English
 

@@ -10,7 +10,7 @@ Aplikasi ini digunakan untuk menghubungkan folder 1 dengan folder baru
 Sudah saya coba ke game steam ARK Survival Evolved, folder ark pada steam saya link ke folder baru yg saya pakai untuk epic.<br>
 <br>[An example implementation of this application is using a Steam game folder linked to an Epic game folder with the exact same game data.
 I have tried it with the Steam game ARK Survival Evolved, linking the ARK folder on Steam to a new folder I use for Epic.]<br>
-<br>Tutorial link youtube : Coming soon..... (lagi saya buatkan) 
+<br>Tutorial link youtube : https://youtu.be/7uHen4PJtuQ
 <br>
 <br>Diagram English
 
